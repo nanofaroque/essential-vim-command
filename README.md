@@ -34,3 +34,8 @@ Type “yy”
 ```
 Type “p” 
 ```
+### Move curson beginning and end of the line
+```
+I - insert at the beginning of the line
+A - append at the end of the line
+```
