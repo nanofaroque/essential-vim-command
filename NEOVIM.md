@@ -27,4 +27,12 @@ Plug 'kyazdani42/nvim-web-devicons' " for file icons
 Plug 'kyazdani42/nvim-tree.lua'
 call plug#end()
 ```
+Save it. 
 In between the start and end, you have the plugin to install. 
+
+Now run the command below: 
+`vim ~/.vimrc`
+`:PlugInstall`
+to update: 
+`vim ~/.vimrc`
+`:PlugUpdate`
