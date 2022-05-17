@@ -39,3 +39,8 @@ Type “p”
 I - insert at the beginning of the line
 A - append at the end of the line
 ```
+### Delete the entire text
+```
+gg          # It will select the entire text
+dG          # Delete all
+```
