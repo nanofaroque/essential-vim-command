@@ -44,3 +44,5 @@ A - append at the end of the line
 gg          # It will select the entire text
 dG          # Delete all
 ```
+
+https://www.linux.com/training-tutorials/vim-tips-using-tabs/
